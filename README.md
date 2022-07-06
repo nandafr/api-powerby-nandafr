@@ -1,6 +1,6 @@
 # Daftar API
 👋 Hi, kenalin aku nanda,
-Disini aku mau bagikan kumpulan API yang aku pernah aku buat, semoga bermanfaat 🎉. 
+Disini aku mau bagikan kumpulan API yang pernah aku buat, semoga bermanfaat 🎉. 
 
 | Nama Api | Developer | URL | Status | Deskripsi | Auth |
 |---|---|---|---|---|---|
